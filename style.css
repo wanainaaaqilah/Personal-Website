@@ -1,0 +1,30 @@
+body
+{
+	background-color:navajowhite;
+}
+
+a
+{
+	color:white;
+	background-color:brown;
+	padding:15px;
+	text-align:center;
+	text-decoration:none;
+	border-radius:25px;
+	display:inline block;
+}
+
+h1
+{
+	font-family: 'Lobster', cursive;
+}
+
+h2
+{
+	font-family: 'Fredoka One', cursive;
+}
+
+h3
+{
+	font-family: 'Concert One', cursive;
+}
